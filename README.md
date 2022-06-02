@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a>
 </p>
-Science Research Specialist at the Center for Applied Modeling, Data Analytics, and Bioinformatics for Decision Support Systems in Health. Software Enginer at 100Devs. Enjoys programming and reducing tedium. Motivated to use tehcnology to make people's lives easier. 
+Science Research Specialist at the Center for Applied Modeling, Data Analytics, and Bioinformatics for Decision Support Systems in Health. Software Enginer at 100Devs. Enjoys programming and motivated to use tehcnology to make people's lives easier. 
 See [my website](https://imarijoyborda.com) for more information!
 <br>
 
