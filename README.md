@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Imari Joy Borda.</h1>
 <br>
 
@@ -97,7 +96,52 @@ See [my website](https://imarijoyborda.com) for more information!
       </a>
       <p><strong>HTML5, CSS3, & Javascript</strong> - See and learn about NASA's beautiful APOD (Astronomy Picture of the Day) in any day. Allows fast checking out of APOD on other calendar dates. Supports both image and video.</p>
     </td>
-  </tr>
+    <tr>
+      <!-- Project 5 -->
+      <td width="50%" valign="top">
+        <h3 align="center">SIR Simulator</h3>
+        <br/>
+        <a target="_blank" href="https://imarijoyborda.com/sir-simulator/">
+          <img src="https://github.com/ijborda/sir-simulator/raw/main/preview.gif" width="100%" alt="Readability Test App Preview"/>
+        </a>
+        <br/>
+        <a href="https://github.com/ijborda/sir-simulator" target="_blank">
+          <img src="https://img.shields.io/badge/-Github-gray"/>
+        </a>  
+        <a href="https://imarijoyborda.com/sir-simulator/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-gray"/>
+        </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Simulates the classical SIR epidemic model interactively.</p>
+      </td>
+      <!-- Project 6 -->
+      <td width="50%" valign="top">
+        <h3 align="center">SIR API</h3>
+        <br/>
+        <a target="_blank" href="https://sir-epimodel-api.herokuapp.com">
+          <img src="https://raw.githubusercontent.com/ijborda/sir-api/main/public/screenshot.png" width="100%" alt="SIR API Preview"/>
+        </a>
+        <br/>
+        <a href="https://github.com/ijborda/sir-api" target="_blank">
+          <img src="https://img.shields.io/badge/-Github-gray"/>
+        </a>  
+        <a href="https://sir-epimodel-api.herokuapp.com" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-gray"/>
+        </a>
+        <p><strong>Node.js & Express</strong> - A free API that that simulates the epidemic model SIR. Accepts values for different parameters and responds in JSON format.</p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 7 -->
+      <td width="50%" valign="top">
+        <h3 align="center">Other Projects</h3>
+        <br/>
+        <ul>
+          <li><a href="https://liefgamalo.com">liefgamalo.com</a>- Online showcase of the works done by Wildlife advocate Lief Gamalo.</li>
+          <li><a href="https://imarijoyborda.com/r-header-cleaner/">R Header Cleaner</a> - Tool to convert raw column names into R ready vector formatted in camelCase.</li>
+          <li><a href="https://imarijoyborda.com/daily-inspiration/">Daily Inspiration</a> - Start your day with an inspiring quote.</li>
+        </ul>
+      </td>
+    </tr>
 </table>
 <br>
 
